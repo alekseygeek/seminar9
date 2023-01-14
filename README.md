@@ -8,7 +8,8 @@
 
 Урок 11.
 Домашняя Работа !!!
-Работаем только с файлом california_housing_test.csv 
+Работаем только с файлом california_housing_test.csv
+
 1)Прочесть с помощью pandas файл california_housing_test.csv 
 
 2)Посмотреть сколько в нем строк и столбцов
